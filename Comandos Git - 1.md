@@ -21,5 +21,5 @@
         c. M = indica que el archivo a sido modificado pero no ha sido resplandado esa copia. 
         2. git log --oneline = para saber la linea de todas las modificaciones que les ha hecho a los archivos en git.
         
->       3. git 
+>       3. git reset --hard =  se restaura donde dejaste el archivo 
         
