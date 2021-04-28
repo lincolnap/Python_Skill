@@ -19,3 +19,7 @@
 >    1. git status -s = es para saber que esta estan '\'
         a. ?? i= indica que no se ha hecho una copia del los proyectos en git,todo los que indica '\' b. A = cuando el file a sido anadido y se le esta dando un seguimiento esta en la fase 2 de status area 
         c. M = indica que el archivo a sido modificado pero no ha sido resplandado esa copia. 
+        2. git log --oneline = para saber la linea de todas las modificaciones que les ha hecho a los archivos en git.
+        
+>       3. git 
+        
